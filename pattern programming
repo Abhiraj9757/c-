@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    for(int i=1;i<=5;i++) //for loop got start and ineach line it increased by one number
+    {
+     for(int j=1;j<=i;j++) //here it get decreased by onne number cause it will be less >then j 
+     {
+     cout<<j;
+     }
+     cout<<endl;
+     }
+     system("PAUSE");
+     return 0; 
+    }
