@@ -1,0 +1,54 @@
+Practical No.	Title
+1	Program Based on Structures.
+	a. To write a program using structure to enter roll no, name and marks of 5 subject and display the percentage.
+2	Program based on Logic Building.
+	a. To write a program to print prime number from 1 to 100.
+	b. To write a program to display Fibonacci Series.
+	c. To write a program to find greatest common divisor GCD.
+	d. To write a program to take 10 numbers from user and find the largest and smallest number.
+	e. To write a program to demonstrate operators in c++.
+	f. To write a program to print pattern.
+	g. To write a program which accepts 10 number from the user and sort them using array.
+3	Program based on Classes and Objects.
+	a. An Election is contested by five candidates. The candidates are numbered 1 to 5 and the voting is done by marking the candidate number on the ballot paper. Write a program to read the ballots and count the votes cast for each candidates using array variable count. In case, a number read is outside the range 1 to 5, the ballot should be considered as a spoilt ballot and program should also count the number of spoilt ballots.
+4	Progam based on Functions.
+	a.To write a program to find sum of digits reduced to one digit.
+	b. To write a program to print given number in reverse order use function with return type and without return type for reversing the number.
+	c. To write a program to demonstrate pass by value, pass by address and pass by reference.
+	d. To write a program to find volume of box using default argument.
+5	Program based on Function Overloading.
+	a. To implement a program to overload function area. 
+6	Program based on Object as Function Parameters.
+	a. To implement a program for complex number addition pass complex number object as parameter.
+	b. To implement a program for Complex number addition return the addition as comlex number object.
+7	Program based on Static Data Member and Function.
+	a. To create a clas which has one static counter variable as a private member. Value of a counter is increased by one in one of the public member function. Call that member function 5 time and print the appropriate value of static variable.
+8	Program based on inline function.
+	a. To write a program to perform different arithmetic operation like addition, subtraction, division, multiplication and modulo using inline function
+9	Program Based on Pointer, String and Static Data Member
+	a. Declare an integer array with 5 member and print them using pointer notation.
+	b. Write a program which accept 1 string from the user and count number of words in the string.
+	c. Implement a program for bank account. Menu 1. To create account. 2. To deposit. 3. To withdraw with minimum balance of 500. 4. display. use account number as static data and also use constructor in the program.
+10	Operator Overloading
+	a. Write a program to overload + operator for complex number addition.
+	b. Write a program to overload + operator to concatenate two string without using built in function.
+	c. Write a program to overload * operator for matrix multiplication.
+	d. Write a program to overload Relational Operator for rational numbers.
+	e. Write  a program to overload Increment and Decrement Operator.
+	f. Write a program to overload array [] operator.
+11	Data Type Conversion
+	a. To implement a program to convert Time24 into Time12 using constructor function.
+	b. To implement a program to convert Time24 into Time12 using casting operator function.
+12	Virtual Function and Pure Virtual Function
+	a. Write a program to create a graphic class hierarchy. Create an abstract base class called Figure and Derive two classes Square(side) and Circle(radius). Derive classes SquarePrism(height) from square and Cyclinder(height) from Circle. Include the appropriate constructors and the member function show() to display the details of the object. Create the object of the different classes. Demonstrate the dynamic polymorphism through invoking the show() function for the object created (Note: Information given with class name within paranthesis are data member.
+	"b. Write a program to ask user to enter data about student or professor using pure virtual function. If user enter student data get its name and student CGPA.
+if CGPA is greater than 3.5 display student is outstanding. If user enter professor data get is name and number of publication. If publication is more than 20
+than display professor is outstanding."
+13	Program based on Inheritance
+	a. WAP to use private public and protected modes of Inheritance in Multilevel Inheritance. Design appropriate data member and member function in each class.
+	b. Write a c++ program to demonstrate hybrid inheritance by defining at least four classes. Declare suitable member variables and member function for all the classes.
+14	Program based on Constructor.
+	a. Design a class Time (hours, minute) provide default constructor to initialize time object to 0 hour 0 minutes and also provide parameterized constructor to initialize time object with given value of hours and minutes.
+	b. Write a c++ program that uses overloaded and copy constructor. Design minimum three overloaded constructor use appropriate programming construct required to implement same.
+15	Exception Handling
+	a. Write a program to demonstrate exception handling in stack when stack is full and stack is empty.
